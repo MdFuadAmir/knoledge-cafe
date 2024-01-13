@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.imgur.com/xigT28h.jpg",
+      "title": "Exploring the Quantum Frontier",
+      "author": "Alex Johnson",
+      "author_img": "https://i.imgur.com/UlqpxBs.png",
+      "posted_date": "2024-01-14",
+      "reading_time": 8,
+      "hashtags": ["science", "technology", "quantum"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.imgur.com/MN8EOeB.png",
+      "title": "The Art of Sustainable Living",
+      "author": "Emily Davis",
+      "author_img": "https://i.imgur.com/sroq1fs.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 10,
+      "hashtags": ["environment", "sustainability", "lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.imgur.com/a0bJKHd.png",
+      "title": "Cooking Adventures: A Culinary Journey",
+      "author": "Michael Rodriguez",
+      "author_img": "https://i.imgur.com/mGApr8h.jpg",
+      "posted_date": "2024-01-16",
+      "reading_time": 12,
+      "hashtags": ["food", "cooking", "recipes"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.imgur.com/RQQdl77.jpg",
+      "title": "Mindfulness Meditation: Finding Inner Peace",
+      "author": "Sophia Chen",
+      "author_img": "https://i.imgur.com/45DaVTv.jpg",
+      "posted_date": "2024-01-17",
+      "reading_time": 6,
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    }
+     
+  ]
+  
