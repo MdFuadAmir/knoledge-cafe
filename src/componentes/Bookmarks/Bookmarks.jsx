@@ -14,12 +14,12 @@ const Bookmarks = ({ bookmarks, readingTime }) => {
         <h2 className="text-3xl font-bold ml-5 my-8">
           Bookmarked Blogs : {bookmarks.length}
         </h2>
-        {bookmarks.map((bookmark) => (
-          <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>
+        {bookmarks.map((bookmark, idx) => (
+          <Bookmark key={idx} bookmark={bookmark}></Bookmark>
         ))}
       </div>
     </div>
-  );
+  ); 
 };
 Bookmarks.propTypes = {
   bookmarks: PropTypes.array.isRequired,
